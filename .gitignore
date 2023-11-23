@@ -261,3 +261,15 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+
+# Add Nico
+# ignore everything in the following folders
+casino_pucv_1/**
+casino_pucv_2/**
+
+# except their sub-folders
+!casino_pucv_1/**/
+!casino_pucv_2/**/
+
+# also keep all .gitkeep files
+!.gitkeep
