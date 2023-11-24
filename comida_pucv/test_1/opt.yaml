@@ -3,10 +3,10 @@ cfg: cfg/training/proyecto_comida.yaml
 data: casino_pucv_2/data.yaml
 hyp: data/hyp.scratch.p5.yaml
 epochs: 100
-batch_size: 32
+batch_size: 4
 img_size:
-- 640
-- 640
+- 320
+- 320
 rect: false
 resume: false
 nosave: false
@@ -40,4 +40,4 @@ v5_metric: false
 world_size: 1
 global_rank: -1
 save_dir: comida_pucv\test_1
-total_batch_size: 32
+total_batch_size: 4
