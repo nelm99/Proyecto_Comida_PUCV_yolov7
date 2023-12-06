@@ -266,10 +266,12 @@ fabric.properties
 # ignore everything in the following folders
 casino_pucv_1/**
 casino_pucv_2/**
+Resultados/**
 
 # except their sub-folders
 !casino_pucv_1/**/
 !casino_pucv_2/**/
+!Resultados/**/
 
 # also keep all .gitkeep files
 !.gitkeep
