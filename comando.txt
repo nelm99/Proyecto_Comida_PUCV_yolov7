@@ -1,7 +1,7 @@
 Comando para entrenar modelo
 
-python train.py --workers 8 --device 0 --batch-size 4 --data unificacion/Merge_files/data/juntas/data.yaml --img 320 320 --cfg cfg/training/proyecto_comida.yaml --weights '' --hyp data/hyp.scratch.p5.yaml --epochs 100  --project comida_pucv --name test_3
+python train.py --workers 8 --device 0 --batch-size 4 --data unificacion/Merge_files/data/juntas/data.yaml --img 320 320 --cfg cfg/training/proyecto_comida.yaml --weights '' --hyp data/hyp.scratch.p5.yaml --epochs 100  --project comida_pucv --name test_5
 
 Comando para hacer inference
 
-python detect.py --weights comida_pucv/test_4/weights/best.pt --conf 0.25 --device 0 --img-size 640 --project Resultados --name inference_test_2 --save-txt --source unificacion/Merge_files/data/juntas/val/images
+python detect.py --weights comida_pucv/test_5/weights/best.pt --conf 0.25 --device 0 --img-size 640 --project Resultados --name inference_test_3 --save-txt --source unificacion/Merge_files/data/juntas/val/images
