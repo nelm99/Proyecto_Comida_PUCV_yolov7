@@ -1,0 +1,37 @@
+               Class      Images      Labels           P           R      mAP@.5     mAP@.5:.95: 
+                 all         950        3869       0.802       0.841       0.873       0.605
+             Bandeja         950         941       0.941       0.967       0.981       0.929
+      Carne de cerdo         950          47       0.813       0.835       0.878       0.469
+              Fideos         950          90       0.852       0.878       0.864       0.359
+               Plato         950         933       0.962       0.931       0.968       0.888
+               Arroz         950         510       0.824       0.829       0.876        0.64
+         Hamburguesa         950         221       0.936       0.828       0.829       0.656
+        Carne molida         950          55       0.911       0.931       0.966       0.783
+   Budin de verduras         950           3           1           1       0.995       0.697
+           Ensaladas         950           9        0.53       0.444       0.552       0.329
+       Pescado frito         950          18       0.523       0.833       0.865       0.534
+      Pollo arvejado         950          45       0.898       0.978       0.964       0.707
+         Pollo asado         950         131       0.871       0.969       0.985        0.73
+               Huevo         950          18       0.691       0.944       0.964        0.49
+          Charquican         950           6       0.705           1       0.995       0.761
+            Lentejas         950          92       0.921       0.757       0.908       0.711
+                Pure         950         150       0.885         0.8       0.809       0.595
+            Vienesas         950          66           1           0       0.724       0.154
+             Porotos         950          45       0.634       0.956       0.968       0.899
+          Tallarines         950          63       0.983       0.892       0.961       0.797
+        Papas fritas         950          23       0.502           1       0.953       0.522
+   Estofado de carne         950          31       0.841           1       0.993       0.879
+     Carne de vacuno         950          12       0.913       0.917       0.915       0.502
+               Papas         950          20           1           0       0.235       0.133
+     Pastel de carne         950          44       0.849       0.523       0.772        0.49
+               Pollo         950          67       0.927       0.985        0.99       0.797
+   Zapatillo relleno         950           7       0.943           1       0.995       0.851
+     Pastel de papas         950           9         0.7           1       0.973       0.766
+    Fideos espirales         950          49       0.737           1       0.987         0.7
+       Pollo apanado         950          15       0.582           1       0.923       0.435
+    Carne mongoliana         950          30       0.788           1       0.974       0.779
+      Pollo teriyaki         950          18       0.861           1       0.995       0.571
+   Choclo a la crema         950          29       0.591       0.379       0.407       0.182
+ Strogonoff de pollo         950          55       0.924        0.88       0.916       0.223
+         Vegetariano         950          11        0.49       0.962       0.498       0.432
+       Salsa alfredo         950           6       0.529           1       0.995       0.773
